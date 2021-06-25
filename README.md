@@ -24,9 +24,6 @@ Design and program electric circuit to control 5 motors and makes it all at 90 d
 
  <h3> The Final Output will be like this : </h3>
 
-![Electronic cuircut](https://user-images.githubusercontent.com/43522153/123474940-6274cd80-d603-11eb-8460-73ae6d5f7d56.gif)
-
-
-
+ <image src = "https://github.com/betoolhamad/Electric-circuit-of-5-motors./blob/main/Electronic%20cuircut.gif" width="800" />
 
 
