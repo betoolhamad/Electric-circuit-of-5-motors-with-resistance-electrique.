@@ -1,4 +1,4 @@
-# Electric-circuit-of-5-motors.
+# Electric circuit of 5 motors.
 Design and program electric circuit to control 5 motors and makes it all at 90 degrees using tinkercad.
 
 
