@@ -10,7 +10,7 @@ Servo servo3;
 Servo servo4;
 Servo servo5;
 
-int servoPos = 0; //servo positon wich start from 0 (initial position).
+int servoPos = 0; //servo positon which start from 0 (initial position).
 void setup() {
   
 servo1.attach(3);
