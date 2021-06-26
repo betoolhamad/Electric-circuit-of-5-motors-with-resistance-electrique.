@@ -27,7 +27,7 @@ void loop() {
     servo3.write(servoPos);
     servo4.write(servoPos);
     servo5.write(servoPos);
-    delay(50);
+    delay(100);
   }
   
   
@@ -37,7 +37,7 @@ void loop() {
     servo3.write(servoPos);
     servo4.write(servoPos);
     servo5.write(servoPos);
-    delay(50);
+    delay(100);
   }
   
 }
