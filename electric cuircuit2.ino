@@ -12,24 +12,28 @@ Servo servo2;
 const int servo2PotPin =A1;
 const int servo2Pin = 5;// Must use PWM enabled pin
 int servo2Value;
-//**** servo 1 settings END
+//**** servo 2 settings END
 
+//**** servo 3 settings
 Servo servo3; 
 const int servo3PotPin =A2;
 const int servo3Pin = 6;// Must use PWM enabled pin
 int servo3Value;
+//**** servo 3 settings END
 
+//**** servo 4 settings
 Servo servo4; 
 const int servo4PotPin =A3;
 const int servo4Pin = 9;// Must use PWM enabled pin
 int servo4Value;
+//**** servo 4 settings END
 
-
+//**** servo 5 settings
 Servo servo5; 
 const int servo5PotPin =A4;
 const int servo5Pin = 10;// Must use PWM enabled pin
 int servo5Value;
-
+//**** servo 5 settings END
 
 void setup() {
   //Robojax.com multiple servo
@@ -65,5 +69,5 @@ void loop() {
   servo5.write(servo5Value);
   
   delay(5);
- //Robojax.com multiple servo  
+ //multiple servo  
 }// loop end
