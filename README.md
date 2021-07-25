@@ -26,5 +26,7 @@ Design and program electric circuit to control 5 motors and makes it all at 90 d
 **Step6 :** Write the code that makes all motors at 90 degrees, which the source code is attached in this repository.  
 
  <h3> The Final Output will be like this : </h3>
-g
+
+
+https://user-images.githubusercontent.com/43522153/126908812-dc778ec4-6b84-4203-91ee-eb8534aca09a.mov
 
