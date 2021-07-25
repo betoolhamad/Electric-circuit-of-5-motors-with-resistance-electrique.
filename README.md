@@ -9,6 +9,7 @@ Design and program electric circuit to control 5 motors and makes it all at 90 d
 * Arduino Board.  
 * Wires.  
 * Breadboard.   
+* Potentiometer.
 
 
 
@@ -20,10 +21,10 @@ Design and program electric circuit to control 5 motors and makes it all at 90 d
 
 **Step4 :** Repeat step3 for all motors.  
 
-**Step5 :** Write the code that makes all motors at 90 degrees, which the source code is attached in this repository.  
+**Step 5:** Put the Potentiometers on the board by connects the first wire in the positive port, another wire connects in the minus port and the middle connector on the **Analog port**
+
+**Step6 :** Write the code that makes all motors at 90 degrees, which the source code is attached in this repository.  
 
  <h3> The Final Output will be like this : </h3>
-
- <image src = "https://github.com/betoolhamad/Electric-circuit-of-5-motors./blob/main/Electronic%20cuircut.gif" width="800" />
-
+g
 
